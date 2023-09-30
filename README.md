@@ -12,3 +12,7 @@
 6. Частное введенных чисел с точность до сотых
 ## Запуск программы
 Проект можно открыть в Pycharm. Запустить файл main.py, ввести два числа через Enter. 
+
+### Тесты
+![Test1](https://github.com/ekolenchuk/Ft_220008_Kolenchuk_1_1/blob/master/Test1.png)
+![Test2](https://github.com/ekolenchuk/Ft_220008_Kolenchuk_1_1/blob/master/Test2.png)
